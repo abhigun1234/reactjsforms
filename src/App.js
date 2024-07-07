@@ -10,7 +10,7 @@ function App() {
       {/* <Registration></Registration> */}
       {/* <Login></Login> */}
      {/* <User></User> */}
-     <Login></Login>
+     <Registration></Registration>
     </div>
   );
 }
